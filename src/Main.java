@@ -1,6 +1,6 @@
 public class Main {
 
-
+    System.out.println ( "hi" );
     public static void main(String[] args) {
 /*
 Make (add code to class Tank),
